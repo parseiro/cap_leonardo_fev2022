@@ -9,11 +9,6 @@ import java.util.stream.Collectors;
 public class Questao3 {
     private static final boolean DEBUG = false;
 
-    public static void main(String... args) {
-        contarAnagramas("Leonardo");
-    }
-
-
     /**
      * @param palavra String a ser verificada
      * @return o número de pares de substrings que são anagramas
