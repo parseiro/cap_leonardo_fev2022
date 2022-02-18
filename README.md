@@ -8,7 +8,7 @@ Este é um aplicativo feito em Java utilizando Java 11, Maven, as bibliotecas JU
 
 ## Questões e respectivas classes
 
-Cada questão tem sua solução encapsulada dentro de uma classe com nome sugestivo. A classe **Questao1** abriga o método **funcDesafio1**. A classe **Questao2**, o método **funcDesafio2**. Na classe **Questao3**, o principal  método é o **contarAnagramas**. Todos os médotos estão documentados.
+Cada questão tem sua solução encapsulada dentro de uma classe com nome sugestivo. A classe **Questao1** abriga o método **funcDesafio1**. A classe **Questao2**, o método **funcDesafio2**. Na classe **Questao3**, o principal  método é o **contarAnagramas**. Todos os métodos estão documentados usando JavaDoc.
 
 Cada uma dessas classes acompanha um ou mais testes unitários (JUnit) na pasta de testes (seguindo a estrutura de projeto Maven).
 
